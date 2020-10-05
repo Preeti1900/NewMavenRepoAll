@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9287" started-at="2020-09-20T09:58:08Z" finished-at="2020-09-20T09:58:17Z">
+  <suite name="Suite" duration-ms="32" started-at="2020-10-05T12:24:36Z" finished-at="2020-10-05T12:24:36Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9287" started-at="2020-09-20T09:58:08Z" finished-at="2020-09-20T09:58:17Z">
-      <class name="com.NewMaven.NewMaven.CssSelectorNew">
-        <test-method status="PASS" signature="cssSelect()" name="cssSelect" duration-ms="9270" started-at="2020-09-20T09:58:08Z" finished-at="2020-09-20T09:58:17Z">
+    <test name="Test" duration-ms="32" started-at="2020-10-05T12:24:36Z" finished-at="2020-10-05T12:24:36Z">
+      <class name="com.NewMaven.NewMaven.C">
+        <test-method status="PASS" signature="cTest()" name="cTest" duration-ms="17" started-at="2020-10-05T12:24:36Z" finished-at="2020-10-05T12:24:36Z">
         </test-method>
       </class>
     </test>
