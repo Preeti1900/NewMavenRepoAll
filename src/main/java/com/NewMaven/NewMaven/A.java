@@ -1,12 +1,15 @@
 package com.NewMaven.NewMaven;
 
+import static org.testng.Assert.fail;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class A {
 	@Test
 	public void aTest() {
-		int i=10/0;
-		
-		System.out.println("this is A class method"+i);
+		boolean flag = false;
+		Assert.assertTrue(flag); 
+		System.out.println("this is A class method"+ flag);
 	}
 }

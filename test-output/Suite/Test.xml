@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="LAPTOP-N5U8LD2C" name="com.NewMaven.NewMaven.CssSelectorNew" tests="1" failures="0" timestamp="5 Oct 2020 19:28:10 GMT" time="8.823" errors="0">
-  <testcase name="cssSelect" time="8.82" classname="com.NewMaven.NewMaven.CssSelectorNew"/>
+<testsuite hostname="LAPTOP-N5U8LD2C" name="com.NewMaven.NewMaven.A" tests="1" failures="1" timestamp="5 Oct 2020 19:46:20 GMT" time="0.048" errors="0">
+  <testcase name="aTest" time="0.027" classname="com.NewMaven.NewMaven.A">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at com.NewMaven.NewMaven.A.aTest(A.java:12)
+... Removed 29 stack frames]]>
+    </failure>
+  </testcase>
 </testsuite>
