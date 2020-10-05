@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="LAPTOP-N5U8LD2C" name="com.NewMaven.NewMaven.C" tests="1" failures="0" timestamp="5 Oct 2020 19:24:36 GMT" time="0.032" errors="0">
-  <testcase name="cTest" time="0.017" classname="com.NewMaven.NewMaven.C"/>
+<testsuite hostname="LAPTOP-N5U8LD2C" name="com.NewMaven.NewMaven.CssSelectorNew" tests="1" failures="0" timestamp="5 Oct 2020 19:28:10 GMT" time="8.823" errors="0">
+  <testcase name="cssSelect" time="8.82" classname="com.NewMaven.NewMaven.CssSelectorNew"/>
 </testsuite>
