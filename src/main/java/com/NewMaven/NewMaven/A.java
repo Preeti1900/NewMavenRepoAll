@@ -5,6 +5,8 @@ import org.testng.annotations.Test;
 public class A {
 	@Test
 	public void aTest() {
-		System.out.println("this is A class method");
+		int i=10/0;
+		
+		System.out.println("this is A class method"+i);
 	}
 }
