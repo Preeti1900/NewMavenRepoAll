@@ -10,6 +10,6 @@ public class A {
 	public void aTest() {
 /*		boolean flag = false;
 		Assert.assertTrue(flag);*/ 
-		System.out.println("this is A class method"+ flag);
+		System.out.println("this is A class method");
 	}
 }
