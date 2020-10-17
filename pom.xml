@@ -101,7 +101,7 @@
 					<suiteXmlFiles>
 						<!-- <suiteXmlFile>A.xml</suiteXmlFile> -->
 						<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
-						<suiteXmlFile>config/A.xml</suiteXmlFile>
+						<suiteXmlFile>config/testngALL.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
