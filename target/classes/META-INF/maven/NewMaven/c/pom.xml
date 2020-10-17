@@ -99,8 +99,9 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>A.xml</suiteXmlFile>
+						<!-- <suiteXmlFile>A.xml</suiteXmlFile> -->
 						<!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile> -->
+						<suiteXmlFile>config/A.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
